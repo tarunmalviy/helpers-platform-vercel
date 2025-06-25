@@ -1,6 +1,7 @@
 
 import "./globals.css";
 import Navbar from "@/components/navbar"; 
+import { Analytics } from "@vercel/analytics/next"
 
 export const metadata = {
   title: 'Helpers Platform',
@@ -19,6 +20,7 @@ export default function RootLayout({
           <Navbar/>
         </div>
         {children}
+        <Analytics/>
       </body>
     </html>
   );
