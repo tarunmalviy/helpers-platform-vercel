@@ -4,6 +4,7 @@ import React from "react";
 import { CardBody, CardContainer, CardItem } from "@/components/ui/3d-card";
 import HouseholdData from "@/data/Household.json";
 
+
 function HouseholdPage() {
   return (
     <div className="min-h-screen bg-black py-12 pt-36">
@@ -12,7 +13,7 @@ function HouseholdPage() {
       </h1>
       <div className="flex flex-wrap justify-center">
         {HouseholdData.Household.map((Household) => (
-          <CardContainer className="inter-var m-4">
+          <CardContainer className="inter-var m-4" key={Household.id}>
             <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border  ">
               <CardItem
                 translateZ="50"

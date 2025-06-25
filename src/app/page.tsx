@@ -5,7 +5,7 @@ import MeetInstructors from "@/components/meetTeam";
 import InfiniteMovingCardsDemo from "@/components/happyCustomers";
 import UpcomingWebinars from "@/components/popularServices";
 import WhyChooseUS from "@/components/WhyChooseUS";
-import Image from "next/image";
+
 
 export default function Home() {
   return (

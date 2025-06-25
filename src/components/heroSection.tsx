@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Spotlight } from "./ui/Spotlight";
 import { Button } from "./ui/moving-border";
+import Image from "next/image";
 
 export default function HeroSection() {
   return (
@@ -14,7 +15,12 @@ export default function HeroSection() {
 
         <div className="p-4 relative z-10 w-full text-center justify-center align-top flex"> 
           <div className="w-60 h-60">
-            <img src="/helpersLogo/helpers-logo.png" ></img>
+            <Image 
+            src="/helpersLogo/helpers-logo.png" 
+            alt="helpersLogo"
+            width={240}
+            height={240}
+            ></Image>
           </div>
           
         </div>
