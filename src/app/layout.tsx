@@ -2,6 +2,7 @@
 import "./globals.css";
 import Navbar from "@/components/navbar"; 
 import { Analytics } from "@vercel/analytics/next"
+import { SpeedInsights } from '@vercel/speed-insights/next';
 
 export const metadata = {
   title: 'Helpers Platform',
@@ -21,6 +22,7 @@ export default function RootLayout({
         </div>
         {children}
         <Analytics/>
+        <SpeedInsights />
       </body>
     </html>
   );
