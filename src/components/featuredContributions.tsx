@@ -1,6 +1,6 @@
 'use client'
 
-import contributionData from "../data/contribution.json";
+import contributionData from "../data/Contribution.json";
 import { BackgroundGradient } from "./ui/background-gradient";
 
 interface Contribution {
