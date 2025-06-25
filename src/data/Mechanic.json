@@ -1,0 +1,114 @@
+{
+  "Mechanic": [
+    {
+      "id": 1,
+      "title": "Rajiv Singh",
+      "experience": "10+",
+      "description": "B-12 Lahartara, Varanasi, 221002",
+      "price": 450,
+      "Rating": "4.6 / 5",
+      "status": "Available",
+      "phone": "9876543240",
+      "image": "/mechanic/mechanic1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Akhilesh Yadav",
+      "experience": "9+",
+      "description": "A-55 Durgakund, Varanasi, 221005",
+      "price": 470,
+      "Rating": "4.5 / 5",
+      "status": "Available",
+      "phone": "9876543241",
+      "image": "/mechanic/mechanic2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Naveen Kumar",
+      "experience": "8+",
+      "description": "C-29 Sigra Road, Varanasi, 221010",
+      "price": 460,
+      "Rating": "4.7 / 5",
+      "status": "Available",
+      "phone": "9876543242",
+      "image": "/mechanic/mechanic3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Manish Pandey",
+      "experience": "7+",
+      "description": "D-11 Kabir Nagar, Varanasi, 221001",
+      "price": 480,
+      "Rating": "4.4 / 5",
+      "status": "Available",
+      "phone": "9876543243",
+      "image": "/mechanic/mechanic4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Pramod Tiwari",
+      "experience": "7+",
+      "description": "K-8 Shivpur, Varanasi, 221003",
+      "price": 455,
+      "Rating": "4.3 / 5",
+      "status": "Available",
+      "phone": "9876543244",
+      "image": "/mechanic/mechanic5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Neeraj Singh",
+      "experience": "6+",
+      "description": "F-19 Orderly Bazar, Varanasi, 221004",
+      "price": 500,
+      "Rating": "4.8 / 5",
+      "status": "Available",
+      "phone": "9876543245",
+      "image": "/mechanic/mechanic6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Tarun Chaubey",
+      "experience": "5+",
+      "description": "B-65 Bhojubir, Varanasi, 221010",
+      "price": 490,
+      "Rating": "4.2 / 5",
+      "status": "Available",
+      "phone": "9876543246",
+      "image": "/mechanic/mechanic7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Ravi Maurya",
+      "experience": "5+",
+      "description": "A-99 Paharia, Varanasi, 221007",
+      "price": 460,
+      "Rating": "4.1 / 5",
+      "status": "Busy",
+      "phone": "9876543247",
+      "image": "/mechanic/mechanic8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Vikas Dubey",
+      "experience": "4+",
+      "description": "G-10 Luxa, Varanasi, 221001",
+      "price": 495,
+      "Rating": "4.0 / 5",
+      "status": "Busy",
+      "phone": "9876543248",
+      "image": "/mechanic/mechanic9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Amit Srivastava",
+      "experience": "3+",
+      "description": "S-42 Nadesar, Varanasi, 221002",
+      "price": 470,
+      "Rating": "4.3 / 5",
+      "status": "Busy",
+      "phone": "9876543249",
+      "image": "/mechanic/mechanic10.jpg"
+    }
+  ]
+}

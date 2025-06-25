@@ -1,0 +1,114 @@
+{
+  "Welder": [
+    {
+      "id": 1,
+      "title": "Ashutosh Verma",
+      "experience": "10+",
+      "description": "B-21 Chaukaghat, Varanasi, 221001",
+      "price": 500,
+      "Rating": "4.0 / 5",
+      "status": "Available",
+      "phone": "9876543260",
+      "image": "/welder/welder1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Lalit Yadav",
+      "experience": "9+",
+      "description": "C-14 Sigra, Varanasi, 221002",
+      "price": 510,
+      "Rating": "4.1 / 5",
+      "status": "Available",
+      "phone": "9876543261",
+      "image": "/welder/welder2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Nitin Raj",
+      "experience": "8+",
+      "description": "D-98 Luxa, Varanasi, 221003",
+      "price": 520,
+      "Rating": "4.2 / 5",
+      "status": "Available",
+      "phone": "9876543262",
+      "image": "/welder/welder3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Gaurav Mishra",
+      "experience": "7+",
+      "description": "E-76 Bhelupur, Varanasi, 221004",
+      "price": 530,
+      "Rating": "4.3 / 5",
+      "status": "Available",
+      "phone": "9876543263",
+      "image": "/welder/welder4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Saurabh Patel",
+      "experience": "6+",
+      "description": "F-51 Lanka, Varanasi, 221005",
+      "price": 540,
+      "Rating": "4.4 / 5",
+      "status": "Available",
+      "phone": "9876543264",
+      "image": "/welder/welder5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Rohit Kumar",
+      "experience": "5+",
+      "description": "G-89 Orderly Bazar, Varanasi, 221006",
+      "price": 550,
+      "Rating": "4.5 / 5",
+      "status": "Available",
+      "phone": "9876543265",
+      "image": "/welder/welder6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Ajeet Singh",
+      "experience": "5+",
+      "description": "H-34 Khojwan, Varanasi, 221007",
+      "price": 560,
+      "Rating": "4.6 / 5",
+      "status": "Available",
+      "phone": "9876543266",
+      "image": "/welder/welder7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Devendra Maurya",
+      "experience": "4+",
+      "description": "A-67 Pandeypur, Varanasi, 221008",
+      "price": 570,
+      "Rating": "4.7 / 5",
+      "status": "Busy",
+      "phone": "9876543267",
+      "image": "/welder/welder8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Pushpendra Tiwari",
+      "experience": "3+",
+      "description": "B-88 Durgakund, Varanasi, 221009",
+      "price": 580,
+      "Rating": "4.8 / 5",
+      "status": "Busy",
+      "phone": "9876543268",
+      "image": "/welder/welder9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Harish Dubey",
+      "experience": "3+",
+      "description": "C-100 Lahartara, Varanasi, 221010",
+      "price": 590,
+      "Rating": "4.9 / 5",
+      "status": "Busy",
+      "phone": "9876543269",
+      "image": "/welder/welder10.jpg"
+    }
+  ]
+}

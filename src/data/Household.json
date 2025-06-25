@@ -1,0 +1,114 @@
+{
+  "Household": [
+    {
+      "id": 1,
+      "title": "Sita Devi",
+      "experience": "12+",
+      "description": "A-12 Sigra, Varanasi, 221001",
+      "price": 300,
+      "Rating": "4.0 / 5",
+      "status": "Available",
+      "phone": "9876543280",
+      "image": "/household/household1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Rekha Kumari",
+      "experience": "11+",
+      "description": "B-45 Assi, Varanasi, 221002",
+      "price": 320,
+      "Rating": "4.1 / 5",
+      "status": "Available",
+      "phone": "9876543281",
+      "image": "/household/household2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Lalita Yadav",
+      "experience": "10+",
+      "description": "C-22 Bhelupur, Varanasi, 221003",
+      "price": 310,
+      "Rating": "4.2 / 5",
+      "status": "Available",
+      "phone": "9876543282",
+      "image": "/household/household3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Poonam Patel",
+      "experience": "9+",
+      "description": "D-11 Khojwan, Varanasi, 221004",
+      "price": 330,
+      "Rating": "4.3 / 5",
+      "status": "Available",
+      "phone": "9876543283",
+      "image": "/household/household4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Savita Maurya",
+      "experience": "8+",
+      "description": "E-31 Orderly Bazar, Varanasi, 221005",
+      "price": 340,
+      "Rating": "4.4 / 5",
+      "status": "Available",
+      "phone": "9876543284",
+      "image": "/household/household5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Radha Singh",
+      "experience": "8+",
+      "description": "F-40 Lanka, Varanasi, 221006",
+      "price": 350,
+      "Rating": "4.5 / 5",
+      "status": "Available",
+      "phone": "9876543285",
+      "image": "/household/household6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Kusum Chaubey",
+      "experience": "7+",
+      "description": "G-15 Pandeypur, Varanasi, 221007",
+      "price": 360,
+      "Rating": "4.6 / 5",
+      "status": "Available",
+      "phone": "9876543286",
+      "image": "/household/household7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Gita Devi",
+      "experience": "6+",
+      "description": "H-89 Durgakund, Varanasi, 221008",
+      "price": 370,
+      "Rating": "4.7 / 5",
+      "status": "Busy",
+      "phone": "9876543287",
+      "image": "/household/household8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Meena Kumari",
+      "experience": "5+",
+      "description": "A-65 Lahartara, Varanasi, 221009",
+      "price": 380,
+      "Rating": "4.8 / 5",
+      "status": "Busy",
+      "phone": "9876543288",
+      "image": "/household/household9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Kamla Rai",
+      "experience": "3+",
+      "description": "B-54 Nadesar, Varanasi, 221010",
+      "price": 390,
+      "Rating": "4.9 / 5",
+      "status": "Busy",
+      "phone": "9876543289",
+      "image": "/household/household10.jpg"
+    }
+  ]
+}

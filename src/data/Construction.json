@@ -1,0 +1,114 @@
+{
+  "Construction": [
+    {
+      "id": 1,
+      "title": "Deepak Maurya",
+      "experience": "9+",
+      "description": "A-101 Sigra, Varanasi, 221001",
+      "price": 600,
+      "Rating": "4.0 / 5",
+      "status": "Available",
+      "phone": "9876543270",
+      "image": "/construction/construction1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Shivam Rajbhar",
+      "experience": "8+",
+      "description": "B-44 Lanka, Varanasi, 221002",
+      "price": 620,
+      "Rating": "4.1 / 5",
+      "status": "Available",
+      "phone": "9876543271",
+      "image": "/construction/construction2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Kishan Yadav",
+      "experience": "7+",
+      "description": "C-77 Bhelupur, Varanasi, 221003",
+      "price": 630,
+      "Rating": "4.2 / 5",
+      "status": "Available",
+      "phone": "9876543272",
+      "image": "/construction/construction3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Vinod Gupta",
+      "experience": "7+",
+      "description": "D-56 Chaukaghat, Varanasi, 221004",
+      "price": 640,
+      "Rating": "4.3 / 5",
+      "status": "Available",
+      "phone": "9876543273",
+      "image": "/construction/construction4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Pawan Mishra",
+      "experience": "6+",
+      "description": "E-88 Orderly Bazar, Varanasi, 221005",
+      "price": 650,
+      "Rating": "4.4 / 5",
+      "status": "Available",
+      "phone": "9876543274",
+      "image": "/construction/construction5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Narayan Chaubey",
+      "experience": "5+",
+      "description": "F-90 Maldahiya, Varanasi, 221006",
+      "price": 660,
+      "Rating": "4.5 / 5",
+      "status": "Available",
+      "phone": "9876543275",
+      "image": "/construction/construction6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Ajit Kumar",
+      "experience": "4+",
+      "description": "G-31 Khojwan, Varanasi, 221007",
+      "price": 670,
+      "Rating": "4.6 / 5",
+      "status": "Available",
+      "phone": "9876543276",
+      "image": "/construction/construction7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Ramjeet Paswan",
+      "experience": "4+",
+      "description": "H-63 Shivpur, Varanasi, 221008",
+      "price": 680,
+      "Rating": "4.7 / 5",
+      "status": "Busy",
+      "phone": "9876543277",
+      "image": "/construction/construction8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Arvind Kushwaha",
+      "experience": "3+",
+      "description": "A-23 Kabir Nagar, Varanasi, 221009",
+      "price": 690,
+      "Rating": "4.8 / 5",
+      "status": "Busy",
+      "phone": "9876543278",
+      "image": "/construction/construction9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Rajkumar Bind",
+      "experience": "2+",
+      "description": "B-19 Pandeypur, Varanasi, 221010",
+      "price": 700,
+      "Rating": "4.9 / 5",
+      "status": "Busy",
+      "phone": "9876543279",
+      "image": "/construction/construction10.jpg"
+    }
+  ]
+}

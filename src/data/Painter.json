@@ -1,0 +1,114 @@
+{
+  "Painter": [
+    {
+      "id": 1,
+      "title": "Ravi Shukla",
+      "experience": "9+",
+      "description": "B-14 Assi, Varanasi, 221001",
+      "price": 400,
+      "Rating": "4.0 / 5",
+      "status": "Available",
+      "phone": "9876543250",
+      "image": "/painter/painter1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Ajay Chauhan",
+      "experience": "8+",
+      "description": "C-21 Sigra, Varanasi, 221002",
+      "price": 410,
+      "Rating": "4.1 / 5",
+      "status": "Available",
+      "phone": "9876543251",
+      "image": "/painter/painter2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Niraj Yadav",
+      "experience": "8+",
+      "description": "D-12 Bhelupur, Varanasi, 221003",
+      "price": 420,
+      "Rating": "4.2 / 5",
+      "status": "Available",
+      "phone": "9876543252",
+      "image": "/painter/painter3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Kunal Maurya",
+      "experience": "7+",
+      "description": "E-33 Lanka, Varanasi, 221004",
+      "price": 430,
+      "Rating": "4.3 / 5",
+      "status": "Available",
+      "phone": "9876543253",
+      "image": "/painter/painter4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Tarun Verma",
+      "experience": "6+",
+      "description": "F-22 Orderly Bazar, Varanasi, 221005",
+      "price": 440,
+      "Rating": "4.4 / 5",
+      "status": "Available",
+      "phone": "9876543254",
+      "image": "/painter/painter5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Anil Tripathi",
+      "experience": "5+",
+      "description": "G-19 Khojwan, Varanasi, 221006",
+      "price": 450,
+      "Rating": "4.5 / 5",
+      "status": "Available",
+      "phone": "9876543255",
+      "image": "/painter/painter6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Manish Kumar",
+      "experience": "5+",
+      "description": "H-18 Paharia, Varanasi, 221007",
+      "price": 460,
+      "Rating": "4.6 / 5",
+      "status": "Available",
+      "phone": "9876543256",
+      "image": "/painter/painter7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Rajeev Gupta",
+      "experience": "4+",
+      "description": "A-45 Pandeypur, Varanasi, 221008",
+      "price": 470,
+      "Rating": "4.7 / 5",
+      "status": "Busy",
+      "phone": "9876543257",
+      "image": "/painter/painter8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Vinay Mishra",
+      "experience": "3+",
+      "description": "B-76 Durgakund, Varanasi, 221009",
+      "price": 480,
+      "Rating": "4.8 / 5",
+      "status": "Busy",
+      "phone": "9876543258",
+      "image": "/painter/painter9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Pankaj Rai",
+      "experience": "3+",
+      "description": "C-88 Maldahiya, Varanasi, 221010",
+      "price": 490,
+      "Rating": "4.9 / 5",
+      "status": "Busy",
+      "phone": "9876543259",
+      "image": "/painter/painter10.jpg"
+    }
+  ]
+}

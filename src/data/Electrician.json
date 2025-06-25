@@ -1,0 +1,114 @@
+{
+  "Electrician": [
+    {
+      "id": 1,
+      "title": "Rajendra Kumar",
+      "experience": "10+",
+      "description": "P12/50 A8 Modern Colony, Sigra, Varanasi, 221210",
+      "price": 500,
+      "Rating": "4.6 / 5",
+      "status": "Available",
+      "phone": "9876543210",
+      "image": "/courses/blues.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Amit Sharma",
+      "experience": "9+",
+      "description": "23C/7 Lanka Road, Varanasi, 221005",
+      "price": 400,
+      "Rating": "4.3 / 5",
+      "status": "Available",
+      "phone": "9876543211",
+      "image": "/electrician/electrician2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Vijay Patel",
+      "experience": "8+",
+      "description": "B-78 Ravindrapuri Extension, Varanasi, 221010",
+      "price": 450,
+      "Rating": "4.7 / 5",
+      "status": "Available",
+      "phone": "9876543212",
+      "image": "/electrician/electrician3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Manoj Yadav",
+      "experience": "8+",
+      "description": "S2/36-A Khojwa Bazar, Varanasi, 221002",
+      "price": 480,
+      "Rating": "4.5 / 5",
+      "status": "Available",
+      "phone": "9876543213",
+      "image": "/electrician/electrician4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Sunil Verma",
+      "experience": "7+",
+      "description": "G2/15 Chitaipur, DLW Road, Varanasi, 221004",
+      "price": 520,
+      "Rating": "4.2 / 5",
+      "status": "Available",
+      "phone": "9876543214",
+      "image": "/electrician/electrician5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Ravi Mishra",
+      "experience": "6+",
+      "description": "C-9/101-A Kabir Nagar, Varanasi, 221001",
+      "price": 550,
+      "Rating": "4.9 / 5",
+      "status": "Available",
+      "phone": "9876543215",
+      "image": "/electrician/electrician6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Nitin Srivastava",
+      "experience": "5+",
+      "description": "D59/103 Sigra Crossing, Varanasi, 221010",
+      "price": 470,
+      "Rating": "4.4 / 5",
+      "status": "Available",
+      "phone": "9876543216",
+      "image": "/electrician/electrician7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Ankit Pandey",
+      "experience": "4+",
+      "description": "D47/202-A Luxa Road, Varanasi, 221001",
+      "price": 430,
+      "Rating": "4.1 / 5",
+      "status": "Busy",
+      "phone": "9876543217",
+      "image": "/electrician/electrician8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Rakesh Singh",
+      "experience": "4+",
+      "description": "E/24 Mahmoorganj, Varanasi, 221010",
+      "price": 490,
+      "Rating": "4.8 / 5",
+      "status": "Busy",
+      "phone": "9876543218",
+      "image": "/electrician/electrician9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Pawan Chaubey",
+      "experience": "3+",
+      "description": "A2/45 Bhelupur, Varanasi, 221010",
+      "price": 460,
+      "Rating": "4.0 / 5",
+      "status": "Busy",
+      "phone": "9876543219",
+      "image": "/electrician/electrician10.jpg"
+    }
+  ]
+}

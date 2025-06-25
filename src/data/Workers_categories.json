@@ -1,0 +1,86 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Electrician",
+        "slug": "electrician",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/categories/electrician.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Carpenter",
+        "slug": "carpenter",
+        "description": "Start your musical journey with foundational piano skills taught by expert instructors.",
+        "price": 109.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "/categories/carpenter.jpg" 
+      },
+      {
+        "id": 3,
+        "title": "Plumber",
+        "slug": "plumber",
+        "description": "Enhance your singing with advanced vocal techniques for intermediate to advanced learners.",
+        "price": 119.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image": "/categories/plumber.jpg" 
+      },
+      {
+        "id": 4,
+        "title": "Mechanic",
+        "slug": "mechanic",
+        "description": "Master the drums with our comprehensive course covering all skill levels.",
+        "price": 129.99,
+        "instructor": "Mike Brown",
+        "isFeatured": false,
+        "image": "/categories/mechanic.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Painter",
+        "slug": "painter",
+        "description": "Learn the art of jazz improvisation with this course designed for all levels.",
+        "price": 139.99,
+        "instructor": "Chris Davis",
+        "isFeatured": false,
+        "image": "/categories/painter.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Welder",
+        "slug": "welder",
+        "description": "Dive into music production with this introductory course on the basics of sound engineering and mixing.",
+        "price": 149.99,
+        "instructor": "Alex Wilson",
+        "isFeatured": true,
+        "image": "/categories/welder.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Construction",
+        "slug": "construction",
+        "description": "Learn the essentials of songwriting to express your musical creativity.",
+        "price": 159.99,
+        "instructor": "Samantha Miller",
+        "isFeatured": false,
+        "image": "/categories/construction.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Household",
+        "slug": "household",
+        "description": "Create compelling electronic music with our course designed for beginners to advanced users.",
+        "price": 169.99,
+        "instructor": "Luke Harris",
+        "isFeatured": true,
+        "image": "/categories/househelp.jpg"
+      }
+      
+    ]
+  }
+  

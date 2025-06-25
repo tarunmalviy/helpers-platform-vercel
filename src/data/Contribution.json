@@ -1,0 +1,29 @@
+{
+  "contribution": [
+    {
+      "id": 1,
+      "title": "Nearby Services",
+      "description": "Connects customers with skilled workers available in their nearby location."
+    },
+    {
+      "id": 2,
+      "title": "Job Opportunities",
+      "description": "Provides job openings to skilled workers in the unorganized sector."
+    },
+    {
+      "id": 3,
+      "title": "Ratings & Experience",
+      "description": "Shows verified ratings and experience to help customers choose trusted workers."
+    },
+    {
+      "id": 4,
+      "title": "Fair Wages",
+      "description": "Helps ensure workers receive appropriate wages based on their skills and work."
+    },
+    {
+      "id": 5,
+      "title": "24x7 Support",
+      "description": "Offers round-the-clock customer support for both workers and customers."
+    }
+  ]
+}
