@@ -8,7 +8,7 @@
       "price": 500,
       "Rating": "4.0 / 5",
       "status": "Available",
-      "phone": "9876543260",
+      "phone": "987654XXXX",
       "image": "/welder/welder1.jpg"
     },
     {
@@ -19,7 +19,7 @@
       "price": 510,
       "Rating": "4.1 / 5",
       "status": "Available",
-      "phone": "9876543261",
+      "phone": "987654XXXX",
       "image": "/welder/welder2.jpg"
     },
     {
@@ -30,7 +30,7 @@
       "price": 520,
       "Rating": "4.2 / 5",
       "status": "Available",
-      "phone": "9876543262",
+      "phone": "987654XXXX",
       "image": "/welder/welder3.jpg"
     },
     {
@@ -41,7 +41,7 @@
       "price": 530,
       "Rating": "4.3 / 5",
       "status": "Available",
-      "phone": "9876543263",
+      "phone": "987654XXXX",
       "image": "/welder/welder4.jpg"
     },
     {
@@ -52,7 +52,7 @@
       "price": 540,
       "Rating": "4.4 / 5",
       "status": "Available",
-      "phone": "9876543264",
+      "phone": "987654XXXX",
       "image": "/welder/welder5.jpg"
     },
     {
@@ -63,7 +63,7 @@
       "price": 550,
       "Rating": "4.5 / 5",
       "status": "Available",
-      "phone": "9876543265",
+      "phone": "987654XXXX",
       "image": "/welder/welder6.jpg"
     },
     {
@@ -74,7 +74,7 @@
       "price": 560,
       "Rating": "4.6 / 5",
       "status": "Available",
-      "phone": "9876543266",
+      "phone": "987654XXXX",
       "image": "/welder/welder7.jpg"
     },
     {
@@ -85,7 +85,7 @@
       "price": 570,
       "Rating": "4.7 / 5",
       "status": "Busy",
-      "phone": "9876543267",
+      "phone": "987654XXXX",
       "image": "/welder/welder8.jpg"
     },
     {
@@ -96,7 +96,7 @@
       "price": 580,
       "Rating": "4.8 / 5",
       "status": "Busy",
-      "phone": "9876543268",
+      "phone": "987654XXXX",
       "image": "/welder/welder9.jpg"
     },
     {
@@ -107,7 +107,7 @@
       "price": 590,
       "Rating": "4.9 / 5",
       "status": "Busy",
-      "phone": "9876543269",
+      "phone": "987654XXXX",
       "image": "/welder/welder10.jpg"
     }
   ]

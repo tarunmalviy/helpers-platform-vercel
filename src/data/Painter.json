@@ -8,7 +8,7 @@
       "price": 400,
       "Rating": "4.0 / 5",
       "status": "Available",
-      "phone": "9876543250",
+      "phone": "987654XXXX",
       "image": "/painter/painter1.jpg"
     },
     {
@@ -19,7 +19,7 @@
       "price": 410,
       "Rating": "4.1 / 5",
       "status": "Available",
-      "phone": "9876543251",
+      "phone": "987654XXXX",
       "image": "/painter/painter2.jpg"
     },
     {
@@ -30,7 +30,7 @@
       "price": 420,
       "Rating": "4.2 / 5",
       "status": "Available",
-      "phone": "9876543252",
+      "phone": "987654XXXX",
       "image": "/painter/painter3.jpg"
     },
     {
@@ -41,7 +41,7 @@
       "price": 430,
       "Rating": "4.3 / 5",
       "status": "Available",
-      "phone": "9876543253",
+      "phone": "987654XXXX",
       "image": "/painter/painter4.jpg"
     },
     {
@@ -52,7 +52,7 @@
       "price": 440,
       "Rating": "4.4 / 5",
       "status": "Available",
-      "phone": "9876543254",
+      "phone": "987654XXXX",
       "image": "/painter/painter5.jpg"
     },
     {
@@ -63,7 +63,7 @@
       "price": 450,
       "Rating": "4.5 / 5",
       "status": "Available",
-      "phone": "9876543255",
+      "phone": "987654XXXX",
       "image": "/painter/painter6.jpg"
     },
     {
@@ -74,7 +74,7 @@
       "price": 460,
       "Rating": "4.6 / 5",
       "status": "Available",
-      "phone": "9876543256",
+      "phone": "987654XXXX",
       "image": "/painter/painter7.jpg"
     },
     {
@@ -85,7 +85,7 @@
       "price": 470,
       "Rating": "4.7 / 5",
       "status": "Busy",
-      "phone": "9876543257",
+      "phone": "987654XXXX",
       "image": "/painter/painter8.jpg"
     },
     {
@@ -96,7 +96,7 @@
       "price": 480,
       "Rating": "4.8 / 5",
       "status": "Busy",
-      "phone": "9876543258",
+      "phone": "987654XXXX",
       "image": "/painter/painter9.jpg"
     },
     {
@@ -107,7 +107,7 @@
       "price": 490,
       "Rating": "4.9 / 5",
       "status": "Busy",
-      "phone": "9876543259",
+      "phone": "987654XXXX",
       "image": "/painter/painter10.jpg"
     }
   ]

@@ -8,7 +8,7 @@
       "price": 600,
       "Rating": "4.7 / 5",
       "status": "Available",
-      "phone": "9876543220",
+      "phone": "987654XXXX",
       "image": "/carpenter/carpenter1.jpg"
     },
     {
@@ -19,7 +19,7 @@
       "price": 620,
       "Rating": "4.6 / 5",
       "status": "Available",
-      "phone": "9876543221",
+      "phone": "987654XXXX",
       "image": "/carpenter/carpenter2.jpg"
     },
     {
@@ -30,7 +30,7 @@
       "price": 580,
       "Rating": "4.4 / 5",
       "status": "Available",
-      "phone": "9876543222",
+      "phone": "987654XXXX",
       "image": "/carpenter/carpenter3.jpg"
     },
     {
@@ -41,7 +41,7 @@
       "price": 610,
       "Rating": "4.5 / 5",
       "status": "Available",
-      "phone": "9876543223",
+      "phone": "987654XXXX",
       "image": "/carpenter/carpenter4.jpg"
     },
     {
@@ -52,7 +52,7 @@
       "price": 590,
       "Rating": "4.3 / 5",
       "status": "Available",
-      "phone": "9876543224",
+      "phone": "987654XXXX",
       "image": "/carpenter/carpenter5.jpg"
     },
     {
@@ -63,7 +63,7 @@
       "price": 605,
       "Rating": "4.8 / 5",
       "status": "Available",
-      "phone": "9876543225",
+      "phone": "987654XXXX",
       "image": "/carpenter/carpenter6.jpg"
     },
     {
@@ -74,7 +74,7 @@
       "price": 630,
       "Rating": "4.2 / 5",
       "status": "Available",
-      "phone": "9876543226",
+      "phone": "987654XXXX",
       "image": "/carpenter/carpenter7.jpg"
     },
     {
@@ -85,7 +85,7 @@
       "price": 595,
       "Rating": "4.0 / 5",
       "status": "Busy",
-      "phone": "9876543227",
+      "phone": "987654XXXX",
       "image": "/carpenter/carpenter8.jpg"
     },
     {
@@ -96,7 +96,7 @@
       "price": 640,
       "Rating": "4.1 / 5",
       "status": "Busy",
-      "phone": "9876543228",
+      "phone": "987654XXXX",
       "image": "/carpenter/carpenter9.jpg"
     },
     {
@@ -107,7 +107,7 @@
       "price": 600,
       "Rating": "4.3 / 5",
       "status": "Busy",
-      "phone": "9876543229",
+      "phone": "987654XXXX",
       "image": "/carpenter/carpenter10.jpg"
     }
   ]
